@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">S5A4GotoNextScreenOnLogin</string>
+
+    <string name="edittext_email_hint">Email</string>
+    <string name="edittext_pw_hint">Password</string>
+    <string name="login_button">LOGIN</string>
+
+    <string name="edittext_empty_error">This field cannot be left empty</string>
+    <string name="incorrect_credentials_error">Wrong Email and/or Password entered</string>
+    <string name="greet_usr">Welcome</string>
+
+
+    <string name="user_name">sunny</string>
+    <string name="password">sunnyjha</string>
+</resources>
